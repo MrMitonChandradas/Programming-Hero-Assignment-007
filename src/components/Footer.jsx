@@ -1,4 +1,3 @@
-// src/components/Footer.jsx
 import React from "react";
 
 export default function Footer() {
@@ -18,7 +17,6 @@ export default function Footer() {
           </div>
         </div>
 
-        {/* Column 2: Company links */}
         <div>
           <h6 className="font-semibold text-white">Company</h6>
           <ul className="mt-3 space-y-2 text-sm">
@@ -28,7 +26,6 @@ export default function Footer() {
           </ul>
         </div>
 
-        {/* Column 3: Products/Services or Quick links */}
         <div>
           <h6 className="font-semibold text-white">Services</h6>
           <ul className="mt-3 space-y-2 text-sm">
@@ -53,7 +50,6 @@ export default function Footer() {
           </ul>
         </div>
 
-        {/* Column 4: Contact info */}
         <div>
           <h6 className="font-semibold text-white">Social Links</h6>
           <div className="mt-3 text-sm space-y-2 text-gray-300">
